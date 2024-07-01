@@ -12,7 +12,7 @@ int factorielle(int number)
 	return result;
 }
 
-float pow(float number, float exponent)
+float pow(float number, int exponent)
 {
 	float result = 1;
 	int i;
